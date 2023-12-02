@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sara Boudzakhet
-- 📖I’m a Programming student in NTNU Norway
+- 📖 I’m a Programming student in NTNU Norway
 - 🌱 I’m currently learning C and C++
 
 
